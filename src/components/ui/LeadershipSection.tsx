@@ -107,7 +107,7 @@ export function LeadershipSection({
         <div className="lg:col-span-5 glass-panel-elevated rounded-3xl overflow-hidden border border-amber-400/30 flex flex-col justify-between shadow-2xl">
           <div className="relative aspect-[4/3] sm:aspect-[16/11] lg:aspect-auto lg:flex-1 bg-black/60 overflow-hidden min-h-[320px] sm:min-h-[380px]">
             <img
-              src="/images/pratyusha.jpg"
+              src="./images/pratyusha.jpg"
               alt="WGM Bodda Pratyusha - Founder of PICA"
               className="w-full h-full object-cover object-top hover:scale-105 transition-transform duration-700 ease-out"
             />

@@ -17,7 +17,7 @@ export const STORIES: TournamentStory[] = [
     id: 'tourney-5th-ceremony',
     title: '5th PICA Tournament Grand Prize Distribution',
     subtitle: 'Celebrating the Stars of Tomorrow',
-    image: '/images/tourney1.jpg',
+    image: './images/tourney1.jpg',
     category: 'PICA Championship',
     tag: '5th Edition',
     story:
@@ -28,7 +28,7 @@ export const STORIES: TournamentStory[] = [
     id: 'jithesh-acf',
     title: 'Jithesh Secures 5th Place in U-12 ACF Tournament',
     subtitle: 'Outstanding Performance on National Stage',
-    image: '/images/jithesh.jpg',
+    image: './images/jithesh.jpg',
     category: 'National Circuit',
     tag: 'ACF Podium',
     story:
@@ -39,7 +39,7 @@ export const STORIES: TournamentStory[] = [
     id: 'tourney-podium-celebration',
     title: 'Grand Champions & Trophies Presentation',
     subtitle: '5th PICA Tournament Honors',
-    image: '/images/tourney2.jpg',
+    image: './images/tourney2.jpg',
     category: 'Tournament Honors',
     tag: 'Trophy Winners',
     story:
@@ -50,7 +50,7 @@ export const STORIES: TournamentStory[] = [
     id: 'poojith-success',
     title: 'Poojith Ayan’s Tournament Triumph',
     subtitle: 'Consistent Top Finishes & Rating Progress',
-    image: '/images/poojith.jpg',
+    image: './images/poojith.jpg',
     category: 'Rising Champion',
     tag: 'Top Finisher',
     story:
@@ -61,7 +61,7 @@ export const STORIES: TournamentStory[] = [
     id: 'tourney-young-champions',
     title: 'Medal Winners & Joyful Young Masters',
     subtitle: '5th PICA Tournament Stage',
-    image: '/images/tourney3.jpg',
+    image: './images/tourney3.jpg',
     category: 'Youth Excellence',
     tag: 'Medal Winners',
     story:
@@ -72,7 +72,7 @@ export const STORIES: TournamentStory[] = [
     id: 'yuvaan-triumph',
     title: 'Yuvaan’s Outstanding Tournament Run',
     subtitle: 'Tactical Precision & Perfect Rounds',
-    image: '/images/yuvaan.jpg',
+    image: './images/yuvaan.jpg',
     category: 'Youth Prodigy',
     tag: 'Rapid Circuit',
     story:
@@ -83,7 +83,7 @@ export const STORIES: TournamentStory[] = [
     id: 'chinmay-deekshith',
     title: 'Chinmay & Deekshith on the Honor Roll',
     subtitle: 'Danne & V Pro Tournament Accolades',
-    image: '/images/chinmay.jpg',
+    image: './images/chinmay.jpg',
     category: 'Academy Pride',
     tag: 'Podium Honors',
     story:
